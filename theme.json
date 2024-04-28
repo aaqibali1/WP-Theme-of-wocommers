@@ -1,0 +1,21 @@
+{
+"$schema": "https://schemas.wp.org/trunk/theme.json",
+"version": 2,
+"settings": {
+		"appearanceTools": true,
+		"color": {
+			"background": true,
+			"custom": true,
+			"customDuotone": true,
+			"customGradient": true,
+			"defaultDuotone": true,
+			"defaultGradients": true,
+			"defaultPalette": true,
+			"duotone": [],
+			"gradients": [],
+			"palette": [],
+			"text": true
+		}
+
+	}
+}
